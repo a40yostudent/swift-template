@@ -1,6 +1,6 @@
 {
-    "name": "Swift 5.6",
-    "image": "swift:5.6",
+    "name": "Swift 5.7",
+    "image": "swift:5.7",
     "extensions": [
       "sswg.swift-lang",
     ],
